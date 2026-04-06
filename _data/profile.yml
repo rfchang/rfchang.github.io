@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Robert Chang"
 
 positions:
-- name: Ph.D. Student, Computer Science
-- name: University of California, Los Angeles
+- name: Ph.D. Student
+- name: CS @ UCLA
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
