@@ -4,7 +4,7 @@ navbar_name: "Robert Chang"
 
 positions:
 - name: Ph.D. Student
-- name: Computer Science
+- name: Department of Computer Science
 - name: University of California, Los Angeles
   logo: /assets/images/badges/ucla.png
 
@@ -37,7 +37,7 @@ education:
 - name: University of California, Los Angeles
   logo: /assets/images/badges/ucla.png
   position: Ph.D. in Computer Science
-  date: Mar. 2024 - Present
+  date: Mar. 2024 - present
 - name: University of California, Los Angeles
   logo: /assets/images/badges/ucla.png
   position: B.S. in Computer Science
