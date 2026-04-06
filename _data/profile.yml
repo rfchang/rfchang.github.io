@@ -4,8 +4,7 @@ navbar_name: "Robert Chang"
 
 positions:
 - name: Ph.D. Student
-- name: Computer Science
-- name: UCLA
+- name: UCLA CS
   logo: /assets/images/badges/ucla.png  # Logo is optional
 
 
