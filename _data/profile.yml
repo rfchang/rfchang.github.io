@@ -5,7 +5,7 @@ navbar_name: "Robert Chang"
 positions:
 - name: CS Ph.D. Student
   affiliation: University of California, Los Angeles
-  logo: /assets/images/badges/ucla.png  # Logo is optional
+  logo: /assets/images/badges/MIT_Social_circle.png
 
 
 email: "rfchang@cs.ucla.edu"
